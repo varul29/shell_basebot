@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /home/brijesh/Projects/Neosoft/mahindra_basebot
+cd /home/patricia/Projects/Neosoft/mahindra_basebot
 
 if ! pgrep -f '/home/patricia/Projects/Neosoft/mahindra_basebot/manage.py'
 
